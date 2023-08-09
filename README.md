@@ -1,5 +1,5 @@
 # EY-2023-ODSC
-Notebooks for EY 2023 Open Data Science Challenge.
+Notebooks for EY 2023 Open Science Data Challenge.
 
 Link to Full Challenge website can be found here: https://challenge.ey.com/challenges
 
